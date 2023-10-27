@@ -1,3 +1,2 @@
 # this-is-my-first-repo
-athour - umesh bhandari
-hello world i am umesh
+athour - umesh bhandari\nhello world i am umesh
